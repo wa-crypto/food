@@ -40,8 +40,8 @@ li a{
     text-align: center;
 }
 .head h1{
-    padding-top: 50px;
-    padding-bottom: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 .head img{
@@ -66,7 +66,7 @@ li a{
 
 
 
-.portfolio{
+.about{
     width: 100%;
     height: 1000px;
     background-color: black;
@@ -74,7 +74,7 @@ li a{
     color: white;
 }
 
-.portfolio h2{
+.about h2{
     padding: 20px;
     font-size: 50px;
 }
@@ -98,26 +98,26 @@ li a{
 
 
 
-.about{
+.better{
     width: 100%;
     height: 500px;
     background-color: aliceblue;
     text-align: center;
 }
 
-.about h2{
+.better h2{
     padding: 20px;
     font-size: 50px;
 }
 
-.about p{
+. p{
     width: 500px;
     margin: 10px auto;
     font-size: 20px;
     line-height: 1.5;
 }
 
-.contact{
+.rules{
     width: 100%;
     height: 200px;
     background-color: black;
@@ -125,12 +125,12 @@ li a{
     color: white;
 }
 
-.contact h2{
+.rules p{
     padding: 20px;
     font-size: 50px;
 }
 
-.contact p{
+.rules p{
     width: 500px;
     margin: 10px auto;
     font-size: 20px;
